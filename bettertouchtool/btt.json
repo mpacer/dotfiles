@@ -1,0 +1,265 @@
+{
+  "BTTPresetName" : "Default",
+  "BTTPresetUUID" : "A9B13563-1D99-4ED5-8D53-0FF523312863",
+  "BTTPresetContent" : [
+    {
+      "BTTAppBundleIdentifier" : "BT.G",
+      "BTTAppName" : "Global",
+      "BTTAppSpecificSettings" : {
+
+      },
+      "BTTTriggers" : [
+        {
+          "BTTTouchBarButtonName" : "←⅔",
+          "BTTTriggerType" : 629,
+          "BTTTriggerClass" : "BTTTriggerTypeTouchBar",
+          "BTTPredefinedActionType" : 174,
+          "BTTPredefinedActionName" : "Resize window to Left Two Thirds",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 1,
+          "BTTIconData" : "",
+          "BTTAlternateIconData" : "",
+          "BTTKeySequence" : {
+
+          },
+          "BTTTriggerConfig" : {
+            "BTTTouchBarItemIconHeight" : 0,
+            "BTTTouchBarItemIconWidth" : 0,
+            "BTTTouchBarItemPadding" : 15,
+            "BTTTouchBarFreeSpaceAfterButton" : "5.000000",
+            "BTTTouchBarButtonColor" : "58.650001, 58.650001, 58.650001, 255.000000",
+            "BTTTouchBarAlwaysShowButton" : "0",
+            "BTTTouchBarAlternateBackgroundColor" : "0.000000, 0.000000, 0.000000, 0.000000"
+          }
+        },
+        {
+          "BTTTouchBarButtonName" : "Emoji",
+          "BTTTriggerType" : 630,
+          "BTTTriggerClass" : "BTTTriggerTypeTouchBar",
+          "BTTPredefinedActionType" : -1,
+          "BTTPredefinedActionName" : "No Action",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 6,
+          "BTTAdditionalActions" : [
+            {
+              "BTTWidgetWidth" : "400",
+              "BTTTriggerType" : 640,
+              "BTTTriggerTypeDescription" : "Emoji Widget",
+              "BTTTriggerClass" : "BTTTriggerTypeTouchBar",
+              "BTTPredefinedActionType" : -1,
+              "BTTPredefinedActionName" : "No Action",
+              "BTTEnabled" : 1,
+              "BTTOrder" : 0,
+              "BTTIconData" : "",
+              "BTTAlternateIconData" : ""
+            },
+            {
+              "BTTTouchBarButtonName" : "Close Group",
+              "BTTTriggerType" : 629,
+              "BTTTriggerClass" : "BTTTriggerTypeTouchBar",
+              "BTTPredefinedActionType" : 191,
+              "BTTPredefinedActionName" : "Close currently open Touch Bar group",
+              "BTTEnabled" : 1,
+              "BTTOrder" : 1,
+              "BTTIconData" : "Standard Close Icon",
+              "BTTAlternateIconData" : "",
+              "BTTTriggerConfig" : {
+                "BTTTouchBarItemIconHeight" : 0,
+                "BTTTouchBarItemIconWidth" : 0,
+                "BTTTouchBarItemPadding" : 0,
+                "BTTTouchBarButtonColor" : "0.000000, 0.000000, 0.000000, 255.000000",
+                "BTTTouchBarOnlyShowIcon" : 1
+              }
+            }
+          ],
+          "BTTIconData" : "",
+          "BTTAlternateIconData" : ""
+        },
+        {
+          "BTTTouchBarButtonName" : "←⅓",
+          "BTTTriggerType" : 629,
+          "BTTTriggerClass" : "BTTTriggerTypeTouchBar",
+          "BTTPredefinedActionType" : 108,
+          "BTTPredefinedActionName" : "Resize window to Left Third",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 2,
+          "BTTIconData" : "",
+          "BTTAlternateIconData" : ""
+        },
+        {
+          "BTTTriggerType" : 100,
+          "BTTTriggerTypeDescription" : "3 Finger Swipe Left",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTPredefinedActionType" : 19,
+          "BTTPredefinedActionName" : "Maximize Window Left",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 0,
+          "BTTIconData" : "",
+          "BTTAlternateIconData" : ""
+        },
+        {
+          "BTTTriggerType" : 107,
+          "BTTTriggerTypeDescription" : "4 Finger Swipe Down",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTPredefinedActionType" : -1,
+          "BTTPredefinedActionName" : "No Action",
+          "BTTShortcutToSend" : "59,58,56,55,111",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 3,
+          "BTTIconData" : "",
+          "BTTAlternateIconData" : ""
+        },
+        {
+          "BTTTouchBarButtonName" : "⅓→",
+          "BTTTriggerType" : 629,
+          "BTTTriggerClass" : "BTTTriggerTypeTouchBar",
+          "BTTPredefinedActionType" : 110,
+          "BTTPredefinedActionName" : "Resize window to Right Third",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 4,
+          "BTTIconData" : "",
+          "BTTAlternateIconData" : "",
+          "BTTKeySequence" : {
+
+          },
+          "BTTTriggerConfig" : {
+            "BTTTouchBarItemIconHeight" : 0,
+            "BTTTouchBarItemIconWidth" : 0,
+            "BTTTouchBarItemPadding" : 0
+          }
+        },
+        {
+          "BTTTriggerType" : -1,
+          "BTTTriggerClass" : "BTTTriggerTypeBTTRemote",
+          "BTTPredefinedActionType" : 19,
+          "BTTPredefinedActionName" : "Maximize Window Left",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 0,
+          "BTTIconData" : "",
+          "BTTAlternateIconData" : ""
+        },
+        {
+          "BTTTriggerType" : -1,
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTPredefinedActionType" : -1,
+          "BTTPredefinedActionName" : "No Action",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 6
+        },
+        {
+          "BTTTouchBarButtonName" : "⅔→",
+          "BTTTriggerType" : 629,
+          "BTTTriggerClass" : "BTTTriggerTypeTouchBar",
+          "BTTPredefinedActionType" : 175,
+          "BTTPredefinedActionName" : "Resize window to Right Two Thirds",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 5,
+          "BTTIconData" : "",
+          "BTTAlternateIconData" : "",
+          "BTTKeySequence" : {
+
+          },
+          "BTTTriggerConfig" : {
+            "BTTTouchBarItemIconHeight" : 0,
+            "BTTTouchBarItemIconWidth" : 0,
+            "BTTTouchBarItemPadding" : 15,
+            "BTTTouchBarFreeSpaceAfterButton" : "5.000000",
+            "BTTTouchBarButtonColor" : "58.650001, 58.650001, 58.650001, 255.000000",
+            "BTTTouchBarAlwaysShowButton" : "0",
+            "BTTTouchBarAlternateBackgroundColor" : "0.000000, 0.000000, 0.000000, 0.000000"
+          }
+        },
+        {
+          "BTTWidgetWidth" : "",
+          "BTTTriggerType" : 631,
+          "BTTTriggerTypeDescription" : "Select Widget",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchBar",
+          "BTTPredefinedActionType" : 21,
+          "BTTPredefinedActionName" : "Maximize Window",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 0,
+          "BTTIconData" : "iVBORw0KGgoAAAANSUhEUgAAAFwAAABcCAYAAADj79JYAAAMGWlDQ1BJQ0MgUHJvZmlsZQAASImVVwdYU8kWnltSCCSUAAJSQu9IkS419C4dbIQkQCgBE4KKHVlUcC2oiGJFV0UUXAsgi4qIYmFRsNcHKirKuuiKDZU3KaDra9873zd3\/nvmnDP\/OXfufDMAKNqy8vKyUSUAcvj5guhAX0ZiUjKD1AdQoAaUgB2YyGIL83yiosIAlLH+7\/LuJkDE\/TVrcax\/Hf+voszhCtkAIFEQp3KE7ByIjwGAa7DzBPkAEDqh3nBOfp4YD0GsKoAEASDiYpwuxRpinCrFVhKb2GgmxN4AkBVYLEE6ADQxb0YBOx3GoYk52vI5PD7EWyH2ZGewOBDfh9gqJycXYkUyxGap38VJ\/1vM1PGYLFb6OJbmIhGyH0+Yl82a93+W439LTrZobA4D2BQyBEHR4pxh3fZn5YaKsQLELfzUiEiIVSC+wONI7MX4boYoKE5mP8gWMmHNgDqAn5vD8guFWBtidVFWnI8M27MEEl9oj0bw8oNjZThVkBsti48W8LMjwmRxVmRwg8fwdq7QP2bMJo0XEAwxXGnoscKM2AQpT7S9gBcfATEN4qvCrJhQme\/DwgxmxJiNQBQt5mwE8ds0QUC01AbTyBGO5YXZsFmSueBawLzzM2KDpL5YIleYGDbGgcP185dywDhcfpyMGwZXl2+0zLckLztKZo9t52YHRkvrjB0WFsSM+fbkwwUmrQP2KJMVEiWb611eflSslBuOgjDABH6AAUSwpYJckAl4XYONg\/BNOhIAWEAA0gEXWMs0Yx4JkhE+fMaAQvAHRFwgHPfzlYxyQQHUfxnXSp\/WIE0yWiDxyAJPIc7BtXBP3B0Pg09v2OxxF9x1zI+hODYr0Z\/oRwwiBhDNx3mwIets2ASA9290obDnwuzEXPhjOXyLR3hK6CY8Itwg9BLugHjwRBJFZjWLVyT4gTkDhINeGC1All0qjDkwZoObQNaOuC\/uAflD7rg6rgWs8ckwEx\/cC+bmCLXfMxSNc\/tWyx\/nE7P+Ph+ZnmZBc5SxSB3\/Msxxqx+jML+rEQf2oT9aYiuwo1gHdga7iLVgjYCBncaasE7spBiPr4QnkpUwNlu0hFsWjMMbs7GttR2w\/fzD3CzZ\/OJ6CfO5c\/PFPwMzN2+egJeekc\/wgbsxlxHMZ9tYMext7ZwBEO\/t0q1j6Ipkz0Y0lb\/plmwDYIrb6OjoiW+68CMAHFsJAOX6N53Zcrg\/TgHgwg62SFAg1Ym3Y0AAFKAI\/wpNoAsMgRnMxx44AXfgDfxBCIgEsSAJzIQVzwA5kPMcsAAsBSWgDKwFG8EWsAPsBvvBIXAENIIWcAacB5fBVXAD3IProh+8BEPgHRhBEISEUBE6oonoIcaIJWKPuCCeiD8ShkQjSUgKko7wERGyAFmGlCHlyBZkF1KD\/IqcQM4gF5Fu5A7Shwwgb5BPKIYqoKqoDmqCTkJdUB80FI1FZ6Dp6Gy0EC1GV6OVaDV6EG1Az6CX0RtoL\/oSHcYAJo+pY\/qYNeaCMbFILBlLwwTYIqwUq8CqsTqsGX7na1gvNoh9xIk4HWfg1nBtBuFxOBufjS\/CV+Fb8P14A96OX8P78CH8K4FK0CZYEtwIwYREQjphDqGEUEHYSzhOOAf\/m37COyKRqE40JTrD\/zKJmEmcT1xF3EasJ7YSu4mPicMkEkmTZEnyIEWSWKR8UglpM+kg6TSph9RP+kCWJ+uR7ckB5GQyn1xEriAfIJ8i95CfkUfklOSM5dzkIuU4cvPk1sjtkWuWuyLXLzdCUaaYUjwosZRMylJKJaWOco5yn\/KXvLy8gbyr\/FR5nvwS+Ur5w\/IX5PvkPyqoKFgoMBWmK4gUVivsU2hVuKPwF5VKNaF6U5Op+dTV1BrqWepD6gcanWZDC6ZxaItpVbQGWg\/tlaKcorGij+JMxULFCsWjilcUB5XklEyUmEospUVKVUonlG4pDSvTle2UI5VzlFcpH1C+qPxchaRiouKvwlEpVtmtclblMR2jG9KZdDZ9GX0P\/Ry9X5WoaqoarJqpWqZ6SLVLdUhNRW2yWrzaXLUqtZNqveqYuol6sHq2+hr1I+o31T9N0JngM4E7YeWEugk9E95rTNTw1uBqlGrUa9zQ+KTJ0PTXzNJcp9mo+UAL17LQmqo1R2u71jmtwYmqE90nsieWTjwy8a42qm2hHa09X3u3dqf2sI6uTqBOns5mnbM6g7rqut66mbobdE\/pDujR9Tz1eHob9E7rvWCoMXwY2YxKRjtjSF9bP0hfpL9Lv0t\/xMDUIM6gyKDe4IEhxdDFMM1wg2Gb4ZCRnlG40QKjWqO7xnLGLsYZxpuMO4zfm5iaJJgsN2k0eW6qYRpsWmhaa3rfjGrmZTbbrNrsujnR3MU8y3yb+VUL1MLRIsOiyuKKJWrpZMmz3GbZbUWwcrXiW1Vb3bJWsPaxLrCute6zUbcJsymyabR5NcloUvKkdZM6Jn21dbTNtt1je89OxS7Ersiu2e6NvYU9277K\/roD1SHAYbFDk8PryZaTuZO3T77tSHcMd1zu2Ob4xcnZSeBU5zTgbOSc4rzV+ZaLqkuUyyqXC64EV1\/Xxa4trh\/dnNzy3Y64\/elu7Z7lfsD9+RTTKdwpe6Y89jDwYHns8uj1ZHimeO707PXS92J5VXs98jb05njv9X7mY+6T6XPQ55Wvra\/A97jve6YbcyGz1Q\/zC\/Qr9evyV\/GP89\/i\/zDAICA9oDZgKNAxcH5gaxAhKDRoXdCtYJ1gdnBN8FCIc8jCkPZQhdCY0C2hj8IswgRhzeFoeEj4+vD7EcYR\/IjGSBAZHLk+8kGUadTsqN+mEqdGTa2a+jTaLnpBdEcMPWZWzIGYd7G+sWti78WZxYni2uIV46fH18S\/T\/BLKE\/oTZyUuDDxcpJWEi+pKZmUHJ+8N3l4mv+0jdP6pztOL5l+c4bpjLkzLs7Umpk98+QsxVmsWUdTCCkJKQdSPrMiWdWs4dTg1K2pQ2wmexP7Jcebs4EzwPXglnOfpXmklac9T\/dIX58+kOGVUZExyGPytvBeZwZl7sh8nxWZtS9rNDshuz6HnJOSc4Kvws\/it+fq5s7N7c6zzCvJ653tNnvj7CFBqGCvEBHOEDblq8JjTqfITPSTqK\/As6Cq4MOc+DlH5yrP5c\/tnGcxb+W8Z4UBhb\/Mx+ez57ct0F+wdEHfQp+FuxYhi1IXtS02XFy8uH9J4JL9SylLs5b+XmRbVF70dlnCsuZineIlxY9\/CvyptoRWIii5tdx9+Y4V+Areiq6VDis3r\/xayim9VGZbVlH2eRV71aWf7X6u\/Hl0ddrqrjVOa7avJa7lr725zmvd\/nLl8sLyx+vD1zdsYGwo3fB246yNFysmV+zYRNkk2tRbGVbZtNlo89rNn7dkbLlR5VtVv1V768qt77dxtvVs995et0NnR9mOTzt5O2\/vCtzVUG1SXbGbuLtg99M98Xs6fnH5pWav1t6yvV\/28ff17o\/e317jXFNzQPvAmlq0VlQ7cHD6wauH\/A411VnX7apXry87DA6LDr\/4NeXXm0dCj7QddTlad8z42Nbj9OOlDUjDvIahxozG3qakpu4TISfamt2bj\/9m89u+Fv2WqpNqJ9ecopwqPjV6uvD0cGte6+CZ9DOP22a13TubePZ6+9T2rnOh5y6cDzh\/tsOn4\/QFjwstF90unrjkcqnxstPlhk7HzuO\/O\/5+vMupq+GK85Wmq65Xm7undJ\/q8eo5c83v2vnrwdcv34i40X0z7ubtW9Nv9d7m3H5+J\/vO67sFd0fuLblPuF\/6QOlBxUPth9X\/MP9Hfa9T78k+v77ORzGP7j1mP375RPjkc3\/xU+rTimd6z2qe2z9vGQgYuPpi2ov+l3kvRwZL\/lD+Y+srs1fH\/vT+s3Mocaj\/teD16JtVf2n+te\/t5Ldtw1HDD9\/lvBt5X\/pB88P+jy4fOz4lfHo2Mucz6XPlF\/MvzV9Dv94fzRkdzWMJWJKjAAYbmpYGwJt9AFCTAKBfhecHmvTuJRFEel+UIPCfsPR+JhEnAOpgJz5yM1sBOAybSavkygAivQGI9Qaog8N4k4kwzcFeGotWCwBJf3T0TS4AcrB9DhwdHYkaHf0C737YdQBOPZfe+cRChOf7nXZi1KN3FPwo\/wSVxWyPZDOPKwAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAC0pJREFUeAHtnUuIHMcdxnce+5h1SGTLu5JWK+0GDCLWZXM2NolPPkoCCXRQTrkbAtElxgiR5OBATG455BQdRBCxLgkJvkTgW4xBYLRnj7RS7J0YyyGa2dnHTH5fp2vobXVPV01Xz8yKLqjpV\/X\/8fXX1VVd\/66pXLhw4dji4uLS7u7uryqVyplqtbrR7\/cXZsaQ0LfT6\/Xuo6pZr9ffvX379ldFqL169eqJ\/f393yF7bRL+geejubm5X7Tb7VZdYLPjVYxpsJwnV4pwOkmmdEknwDcAZPny5cu98+fPf33jxo1eUnnXfcipPnjw4Lhkc+7E\/At1vwrWM7Vz5879Hpa9XavV3sDxFQ7OkccFeg2dr8C6FYB\/Db0brVbr083NzTbrudPS0pKI9D75IjrenKB\/p7jo6wcHB2\/VMeKMWEZexLD53F66CdCFle4Z8hlsEbNrbiKGlpasVcmetH\/YcRr\/uvWwTpPjYvak0hx2vI5BL3G3+bQjkAvYazjmU64rTsa\/fh1jxvKAzLAwYDpl5rntvFVnksWF1F077js37u7gTq7Gj5TbxSIwLYD3cbOrzMNb615SKCuQi0BvcvMYNy2A71J3byrjzG4eh2LnFiU3psZ+s25ftJCSYt0uD8s2+RHrW+QDj5okawvZVfI6zyuJHmez9zlXJs1ww8BPsOw98k11fJ6zcsQdoaybks3d80kBd5CzZZUrV654rdtgktrSB7DpK9az2NoNQRCzb965c6fl7IHFCfRglyimDtCqmp8sh7ZasF0dshOUq7HulZS+q5Q+TbFnGLuFoT8FzMcYnZrCh5rq7AOxEcBTy+Y5INl08cX0GjbNZTU9uSjqpPwBH3SBvsN53pqqvhnex6H\/CnCWPyE\/5KWUgMxieh48vZ3LnVCjC34ckM+S\/1gE4L4ZXoG1L4HAWfJvWG\/u7e1dZ33bGyoFChLYs7OzHwC03irKB73w8sZume4bcL0TUZ2nlsBpMpv9lYsXL85MM9MNs2UrNgvo06zLB6\/1N\/L8Ay6hpFmqlTWWyzDmQ9anmulRZmPzD7G3IR\/I3pN3hkcsNO3dqWV6ErOxX29NCwFb2BQJuORPNdPHyWyBoTQK4KbrLQbbpKljuidmu+IQYOUK+B4Pk6bOpJ5bZ2F7600V0z0we1QcnBm+D8imMxOME7J9ZJjukdmdCA6rDsRzBvxremnX6dDsMQr9W9i+epSY7ovZ+LxF\/+JntNVnae5+BOAC3So5VSkoUo9xm6Wu8EOyOgVTz\/QCmP0QDJ7ge0OYQDxW7ZIT4EakOjHqQaJo5Sgw3TezBbYw4G63ZvYAO7PisgzfjWyrB0maWqYXxey7d+8GryouXbrkAltQdiSGGy3TzvSimG38H2WZC\/ACmL7PbZrLpigIksWrBfV0lV17kGpnm9ZIUGcbZkd1uK57cc4X06kb9ZLLtm2f6atkIVPvdJRd5AbtbM4NWiOmzs5UaFHAC+AemW7bprdwbVBEMl3kFsJsY40XwAfC8rdejKhJLQtjtnFIsYU7NO\/UnhYLtExKamjqyg+NG8nJdMlX9p2M3CyWq5xTnR2Le8nED6z7dXqN9wF8nl7T6yhMG1wNRtc5oUmZTFBGqNP3kPsFdjRpWWjdS5IsbPkCYSLM98lp9fiozA5wwe5nlvh1VaU0AVI9pqS4jYDZHHOKG3Fkui5gF6Ofoufp\/Px8j20vKZT1FNnfQ\/YOQuVPnOnOzI4YlxX3EsevAwHq78KEZZj+SwzTFxBRphtmK0jnPfKXLqPrFkwPmI1cgfIxyydk3da+Uge5\/yCvALhkHiNHmT4qswP7ItEAJ23wA4\/tuj7zoEcmVqmt2SNrENhULV22m2xvkb+EuS0yq3YpgemSr5MNy3YBQ3q\/Yd+\/yK2FhYV9FfCRJGtnZ6eFLFRUmuj6j1bYPqSfbUVnPXFtZ4dfarTAT+Zm4gfWraCVErlSh+I2fMWNGKbjVI3OiHFWRirtcof1uP11yx\/cunWrHez18CNZgPF36e10On\/GDjPAHZWui34gG6M7XdaLxs\/FlrJsiUCJQIlAiUCJQIlAiUCJQIlAiUCJQIlAiUCJQIlAiUCJQIlAiUCJQIlAiUCJQIlA0QgEA4xm9jOU1ciDT6PjQ2yjzrZmolg11CX5MacODbExDvqM4xrt9pEq6NYYba3b7S5kDbGFY7DOel3wC8Y0NdUcWt4nBx\/\/M3I\/GERmNHqT\/Vvht+oakHVOjFmaL3wlXx+eGtA1ntgk4PIbxjrvcUG2r1279jfGIgV67oSsRQaR30HHcqPR+BHLl9GxhuCBfvzT4K9iCK+zPwhDdlXsgl89nERRXzGcxSDNfiaDBoCzrckKNPh6UqPTGjC1ZbphNjJWJJ+sGdbWWZqAHIVJsKv\/XZantA5AAQlYz51CWZpJ4hQ65NexBP3SU2W\/8xfTEWafREYmfmBdrcM+zVjZgHlvolQhvebqszpjZiNbV9wF2w9dmB5htpxN+sJXwK+TFY6hWAaFMtxl+1uyj6QApx8jSPp\/QBaRzMVmNd93pBFmazKETPzAoyM2reFk2ryFquOd5xVMYPZp5OhiRp1lM0i6wOBSUZDOt9S1upu8JMkiNuVYKFuz16Xq55hsBAonpuuZNGxexDh+1vMWGqZbzStowWzsPJQCpgt1HmxJoBwqbLshWYhUCJ8YPkyuiSN3nRvAdl5Eg5\/1vIXBlcLoofMKOjI7jpuYHq3O4sdH3baVG9xpKLFmOg9623kRB0z39oASGiMwe1QQizpvVKZb2+MF8JzMNsYqilXZdzJybe8eZ6a7GOwFcA\/MDqJYMbyI+HC1fPRUXkf+sHqcw4NUGNNzAe6R2ebLg8f0br1Fz4ayHgOj\/FRfQxPPTJTpuQD3xWzY5\/1rMYANpn2ati+mRwK8AGare+0cny1Qh6WE+HS1FrwxnVbKMPWJx0YCfNqZHfdUsd9FMB2SxFVlbjsBzsNHPatllnoHoncjw3qQacrVajB1diHMjisuiukAPhtiEleZuu0EOFKO8yD6gCyBSe9GUhWFB3J9U5MlPOu4b6aH+vSm1Tq5Aq7yYrVS2ruR\/x99\/nfszI6bUADTpcIJQ6fCCDftUymybdOq7ESZLQOiySPTJdYFB7erExpt2441Pk6c2cYQs\/TIdCPSeunKcGvBYcGpYnbceA9Mj4vM3C4S8KljdhwNT0yPix26XRTgU83sOCLjZLp3wGmb9nBIg8N6hzGWdnYcQNftJKbjxwpyjs4M+YyB\/lwj4mKPKwCTKm+YHkYWHIkJ2wdYwZA5coP3Datps5\/Rgepzgur64C8JbKMBBkosVyKj60FcjEZqkk7VuxFsVnZtiSWJS9znu0oxM+S\/RpXyJwDNersz+NMNl2iARE+G7IyMrsfjbhLPUncd0E9wUFVK4sVJPNFip2\/ANeytUXdljWZnmaB5UkaOe8kSHmF2WtxIqggL21PPHXbAO+DDlCUcM6PZI8W9JMg7tCvC7LS4kUPlx7ExacB1uzrHvTgAkxU34iDKT9FJA268MEy3insxJ1ksbeNGLET5KeItyimnOQHTkTE07sVVR9gaUXibsteHn6stpvy0AG7seeGXVZo\/mvpI\/zmZ2aQoEA3pfpH\/TzPwT1jbzltYINaBaDN7XJMtdYR8Jdt5BX3pS5Nj\/OvqP5EfUSpt3sI0Ab7268q\/yP+nOfAPPx+Ddae2sbFxn3cHnzESryhTxWm\/wsFxtV6CK4++z8maF\/GvCvi\/d++eDM2d+OvKnVar9SmC\/olv6v3q4o7dP\/Q+4CuPX\/Ou5i\/1drvdWlzU8ORMB2MEOMe9+JsJmHRJp3RjzLbm9ePNXeZ5tgXCdzMtfXkAoSbmH3hK97+F9f8AIyYSEEoSIb4AAAAASUVORK5CYII=",
+          "BTTAlternateIconData" : ""
+        },
+        {
+          "BTTTriggerType" : 108,
+          "BTTTriggerTypeDescription" : "4 Finger Swipe Up",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTPredefinedActionType" : 177,
+          "BTTPredefinedActionName" : "Show\/Hide Specific Application",
+          "BTTAppToShowOrHide" : "com.apple.ActivityMonitor",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 4,
+          "BTTIconData" : "",
+          "BTTAlternateIconData" : ""
+        },
+        {
+          "BTTTouchBarButtonName" : "→⅓←",
+          "BTTTriggerType" : 629,
+          "BTTTriggerClass" : "BTTTriggerTypeTouchBar",
+          "BTTPredefinedActionType" : 109,
+          "BTTPredefinedActionName" : "Resize window to Middle Third",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 3,
+          "BTTIconData" : "",
+          "BTTAlternateIconData" : "",
+          "BTTKeySequence" : {
+
+          },
+          "BTTTriggerConfig" : {
+            "BTTTouchBarItemIconHeight" : 0,
+            "BTTTouchBarItemIconWidth" : 0,
+            "BTTTouchBarItemPadding" : 0
+          }
+        },
+        {
+          "BTTTriggerType" : 131,
+          "BTTTriggerTypeDescription" : "5 Finger Swipe Up",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTPredefinedActionType" : 48,
+          "BTTPredefinedActionName" : "Maximize Window to Next Monitor",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 2,
+          "BTTIconData" : "",
+          "BTTAlternateIconData" : ""
+        },
+        {
+          "BTTTriggerType" : 165,
+          "BTTTriggerTypeDescription" : "2 Finger Swipe From Left Edge (start outside of the trackpad on the aluminum)",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTPredefinedActionType" : 49,
+          "BTTPredefinedActionName" : "Open Application \/ File \/ Apple Script …",
+          "BTTLaunchPath" : "file:\/\/\/Applications\/TextExpander.app",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 5,
+          "BTTIconData" : "",
+          "BTTAlternateIconData" : ""
+        },
+        {
+          "BTTTriggerType" : 101,
+          "BTTTriggerTypeDescription" : "3 Finger Swipe Right",
+          "BTTTriggerClass" : "BTTTriggerTypeTouchpadAll",
+          "BTTPredefinedActionType" : 20,
+          "BTTPredefinedActionName" : "Maximize Window Right",
+          "BTTEnabled" : 1,
+          "BTTOrder" : 1,
+          "BTTIconData" : "",
+          "BTTAlternateIconData" : ""
+        }
+      ]
+    },
+    {
+      "BTTAppBundleIdentifier" : "com.apple.finder",
+      "BTTAppName" : "Finder",
+      "BTTAppSpecificSettings" : {
+
+      },
+      "BTTTriggers" : [
+
+      ]
+    }
+  ],
+  "BTTPresetSnapAreas" : [
+
+  ]
+}
