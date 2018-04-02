@@ -2,18 +2,9 @@
 # added by Anaconda3 4.3.0 installer
 export PATH="/Users/mpacer/anaconda3/bin:$PATH"
 
-# BASHPROFILE_LOADED="True"
-# export BASHPROFILE_LOADED
-# if [ -f $HOME/.bashrc ] && [ "$BASHRC_LOADED" != "True" ]; then
 if [ -f $HOME/.bashrc ]; then
     source $HOME/.bashrc
 fi
-
-# Initialization for FDK command line tools.Mon Apr 17 21:27:45 2017
-FDK_EXE="/Users/mpacer/bin/FDK/Tools/osx"
-PATH=${PATH}:"/Users/mpacer/bin/FDK/Tools/osx"
-export PATH
-export FDK_EXE
 
 export CLICOLOR=1
 export LSCOLORS=ExFxCxDxBxegedabagacad
