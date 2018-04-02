@@ -39,7 +39,7 @@ PS1="\w \[\e[0;33;49m\]\$(parse_git_branch)\[\e[0;0m\]$ "
 export PATH="$HOME/.cargo/bin:$PATH"
 
 # The next line updates PATH for the Google Cloud SDK.
-if [ -f '/Users/mpacer/google-cloud-sdk/path.bash.inc' ]; then source '/Users/mpacer/google-cloud-sdk/path.bash.inc'; fi
+if [ -f "$HOME/google-cloud-sdk/path.bash.inc" ]; then source "$HOME/google-cloud-sdk/path.bash.inc"; fi
 
 # The next line enables shell command completion for gcloud.
-if [ -f '/Users/mpacer/google-cloud-sdk/completion.bash.inc' ]; then source '/Users/mpacer/google-cloud-sdk/completion.bash.inc'; fi
+if [ -f "$HOME/google-cloud-sdk/completion.bash.inc" ]; then source "$HOME/google-cloud-sdk/completion.bash.inc"; fi

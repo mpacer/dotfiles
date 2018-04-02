@@ -44,4 +44,4 @@ export PATH="$HOME/.bin:$PATH"
 #export NODE_PATH='/usr/local/lib/node_modules'
 
 # added by travis gem
-[ -f /Users/mpacer/.travis/travis.sh ] && source /Users/mpacer/.travis/travis.sh
+[ -f $HOME/.travis/travis.sh ] && source $HOME/.travis/travis.sh
