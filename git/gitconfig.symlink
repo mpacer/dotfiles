@@ -1,0 +1,8 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = M Pacer
+	email = mpacer@berkeley.edu
+[core]
+	excludesfile = /Users/mpacer/.gitignore_global
+	editor = /usr/local/bin/vim
