@@ -6,3 +6,7 @@
 [core]
 	excludesfile = /Users/mpacer/.gitignore_global
 	editor = /usr/local/bin/vim
+[hub]
+	protocol = https
+[credential]
+	helper = osxkeychain
